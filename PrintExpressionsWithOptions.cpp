@@ -9,8 +9,8 @@ using namespace std;
 
 int main() {
     //Define Variables
-    int firstOperand, secondOperand;
-    char printingOption;
+    int firstOperand = 0 , secondOperand = 0;
+    char printingOption ='C' ;
 
     //Ask for first operand
     cout << "Please enter the first operand:  "<< endl;
